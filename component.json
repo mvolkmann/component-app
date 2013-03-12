@@ -1,0 +1,6 @@
+{
+  "name": "component-app",
+  "dependencies": {
+    "mvolkmann/color-cycle": "*"
+  }
+}
